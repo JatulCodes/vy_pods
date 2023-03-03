@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://LeaderBridge:LeaderBridge@cluster0.3cxrcn0.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
